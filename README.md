@@ -1,6 +1,6 @@
 # HR Analytics Solution
 
-### kyonggi univ. class project
+## kyonggi univ. class project
 
 ### description
 - Human Resource Analysis Solution
