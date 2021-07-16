@@ -1,4 +1,7 @@
 # HR Analytics Solution
+
+### kyonggi univ. class project
+
 ### description
 - Human Resource Analysis Solution
 - comparative analysis - between Attrition employee and Not Attrition employee
